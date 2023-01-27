@@ -1,0 +1,20 @@
+.list-container {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px;
+}
+.list-items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+p {
+  margin: 20px;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+}
